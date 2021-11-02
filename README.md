@@ -1,2 +1,4 @@
 # keksby
-Learn project
+## Using technology
+- HTML
+- CSS
